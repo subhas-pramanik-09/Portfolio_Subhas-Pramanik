@@ -169,7 +169,7 @@ export const SkillsInfo = [
         "A full-stack web application that helps students to find their best scholarship. Designed to bridge the gap between students and opportunities, this platform uses machine learning to recommend scholarships tailored to each student's unique profile",
       image: applyLogo,
       tags: ["Machine Learning", "Python", "Scholarship", "Recomendation System", "MERN Stack", "Decision Tree Classifier"],
-      github: "https://github.com/subhas-pramanik-09/Get-My-Scholarship",
+      github: "/",
       webapp: "/",
     },
     {
@@ -179,7 +179,7 @@ export const SkillsInfo = [
         "A real-time Driver Fatigue Monitoring System using Python, OpenCV, and MediaPipe. It detects drowsiness and distraction through eye and head movement analysis. Alerts are triggered via sound/vibration",
       image: sarathiLogo,
       tags: ["Computer Vision", "Mediapipe", "OpenCV-Python", "Road Safety", "Smart Monitoring", "Drawsiness Detection", "Driver Fatigue Detection"],
-      github: "https://github.com/subhas-pramanik-09/SARATHI",
+      github: "/",
       webapp: "/",
     },
     {
@@ -189,7 +189,7 @@ export const SkillsInfo = [
         "An AI Powered personal Gym Trainer which monitiors you and by tracking Arm Landmarks counts the number of curls you do.",
       image: aigymLogo,
       tags: ["Mediapipe", "Computer Vision", "OpenCV-Python", "Pose Detection"],
-      github: "https://github.com/subhas-pramanik-09/Computer-Vision/tree/main/PoseEstimationProject",
+      github: "/",
       webapp: "/",
     },
     {
@@ -199,7 +199,7 @@ export const SkillsInfo = [
         "A Full Stack real time video conferencing website using WebRTC and Socket.io",
       image: connectLogo,
       tags: ["Socket.io","WebRTC", "Node.js", "HTML","Express JS", "CSS"],
-      github: "https://github.com/subhas-pramanik-09/Connect-Now",
+      github: "/",
       webapp: "/",
     },
     {
@@ -209,7 +209,7 @@ export const SkillsInfo = [
         "This AI-powered app can automatically detect, recognize, and cluster faces from multiple images",
       image: faceLogo,
       tags: ["Face Clustering", "Facenet-PyTorch", "DBSCAN", "MTCNN", "OpenCV"],
-      github: "https://github.com/subhas-pramanik-09/Face-Clustering-App",
+      github: "/",
       webapp: "/",
     },
     {
@@ -219,7 +219,7 @@ export const SkillsInfo = [
         "A Full Stack Job search and apply portal",
       image: jobLogo,
       tags: ["React JS", "Tailwind CSS", "JavaScript", "Framer Motion", "MongoDB", "Node JS", "Express JS", "Cloudinary"],
-      github: "https://github.com/subhas-pramanik-09/Apply-Here",
+      github: "/",
       webapp: "/",
     },
   ];  

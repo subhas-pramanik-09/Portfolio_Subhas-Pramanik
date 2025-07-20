@@ -31,8 +31,8 @@ A modern, responsive personal portfolio website built with **React (Vite)** and 
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/subhas-pramanik-09/Portfolio_Subhas-Pramanik
+cd Portfolio_Subhas-Pramanik
 npm install
 npm run dev
 
